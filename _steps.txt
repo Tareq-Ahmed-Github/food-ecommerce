@@ -3,3 +3,5 @@ ______________
 react-router
 tailwind-react
 daisy-ui
+react-firebase-hooks
+firebase
